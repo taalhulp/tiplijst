@@ -60,8 +60,8 @@ We gebruiken een gestructureerd "YAML" bestand, dat een hoop flexibiliteit biedt
 - `title`: De titel die verschijnt in de lijst en in het browser tabblad. Ook hierop kun je de lijst sorteren.
 - `intro`: De tekst die verschijnt in de lijst. Opmaak niet mogelijk. Let op dat iedere regel inspringt.
 - `voorbeeld`: De voorbeeldzin als samenstelling van de segmenten (tussen aanhalingstekens). Ieder segment wordt vooraf gegaan door een - streepje. Er zijn neutrale segmenten en `goed:`/`fout:` segmenten. Gebruik zoveel segmenten als nodig.
-- `hints`: Opeenvolging van tips onder de voorbeeldzin, zoveel als nodig. Iedere hint wordt voorafgegaan door: - > en start met inspringing op een nieuwe regel. Het is toegestaan HTML code te gebruiken voor de opmaak, maar bij voorkeur beperkt tot <strong>vette</strong> en <em>schuine</em> tekst.
-- `uitleg`: De uitleg die onderaan verschijnt. Ook hier is HTML code toegestaan. Gebruik de editor op [html5-editor.net](https://html5-editor.net/) en plak de code hier. Code tussen <h4>header 4</h4> verschijnt als oranje kopje.
+- `hints`: Opeenvolging van tips onder de voorbeeldzin, zoveel als nodig. Iedere hint wordt voorafgegaan door: - > en start met inspringing op een nieuwe regel. Het is toegestaan HTML code te gebruiken voor de opmaak, maar bij voorkeur beperkt tot &lt;strong&gt;vette&lt;/strong&gt; en &lt;em&gt;schuine&lt;/em&gt; tekst.
+- `uitleg`: De uitleg die onderaan verschijnt. Ook hier is HTML code toegestaan. Gebruik de editor op [html5-editor.net](https://html5-editor.net/) en plak de code hier. Code tussen &lt;h4&gt;header 4&lt;/h4&gt; verschijnt als oranje kopje.
 
 Github gebruikt een versie-controle systeem. Beschrijf de wijzigingen onder **Commit changes** en klik op de **[Commit changes]** knop. Je kunt de wijzigingen altijd later terugvinden en eventueel terughalen.
 
