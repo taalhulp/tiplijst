@@ -1,0 +1,28 @@
+
+unieke-id-voor-de-browser-zonder-spaties:
+  cat: stijl          # Kies: stijl/spelling/werkwoord
+  ref: kolom 13       # Verschijnt als: "Spellinghulp123 kolom 13"
+  datum: 2018-11-19   # YYY-MM-DD
+  title: >
+    Titel in browser tabblad en bij de opsomming
+  intro: >
+    Dit is de tekst die in de opsomming verschijnt. 
+    Er is hier geen html opmaak toegestaan, teneinde het overzichtelijk te houden.
+  voorbeeld:
+    - "Neutrale tekst en "
+    - fout: "foute tekst"
+      goed: "goede tekst"
+    - " (vergeet de spaties niet). Meer "
+    - fout: "verkeerde"
+      goed: "correcte"
+    - " tekst."
+  hints:
+    - >
+      Hint 1, <strong>html</strong> is hier <em>toegestaan</em>
+    - >
+      Hint 2, en zoveel hints als je wilt
+  uitleg: >
+    <p>
+      Hier de <strong>HTML uitleg</strong> die op de kaart zal verschijnen.
+      Knippen en plakken van <a href="https://html5-editor.net/">html5-editor.net</a>.
+    </p>
