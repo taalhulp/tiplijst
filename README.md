@@ -53,7 +53,7 @@ Indien je een taaltip toevoegt, plak eerst met `Ctrl` + `V` het sjaboon bovenin 
 
 We gebruiken een gestructureerd "YAML" bestand, dat een hoop flexibiliteit biedt om gegevens toe te voegen. Telkens voor de dubbele punt staat een sleutelwoord. Pas alleen het eerste sleutelwoord aan (`unieke-id-voor-de-browser-zonder-spaties`), en laat de overige ongewijzigd. Na de dubbele punt of streepje bevindt zich de inhoud om aan te passen. In enkele gevallen staat de inhoud op de volgende regel (na een >): zorg ervoor dat er dan een inspringing van tenminst 2 spaties is (zoals het voorbeeld).
 
-- `unieke-id`: Dit produceert het unieke adres in de browser. Pas dit eenmalig aan.
+- `unieke-id-etc`: Dit produceert het unieke adres in de browser. Pas dit eenmalig aan.
 - `cat`: Kies hierna uit *spelling*, *stijl* of *werkwoord*. Hierop kan de lijst worden gefilterd.
 - `ref`: Een referentie naar een plaats op de werkwoorden- / spelling- of stijlkaart. De kaart wordt er automatisch bijgezet.
 - `datum`: Plaatsingsdatum zoals `2019-01-13`. Hierop kun je de lijst sorteren.
