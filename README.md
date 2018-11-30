@@ -55,15 +55,15 @@ We gebruiken een gestructureerd "YAML" bestand, dat een hoop flexibiliteit biedt
 
 - `unieke-id-etc`: Dit produceert het unieke adres in de browser. Pas dit eenmalig aan.
 - `cat`: Kies hierna uit *spelling*, *stijl* of *werkwoord*. Hierop kan de lijst worden gefilterd.
-- `ref`: Een referentie naar een plaats op de werkwoorden- / spelling- of stijlkaart. De kaart wordt er automatisch bijgezet.
-- `datum`: Plaatsingsdatum zoals `2019-01-13`. Hierop kun je de lijst sorteren.
+- `ref`: Een referentie naar een plaats op de werkwoorden- / spelling- / stijlkaart. De kaart wordt er automatisch bijgezet.
+- `datum`: Plaatsingsdatum uitgeschreven zoals `2019-01-13`. Hierop kun je de lijst sorteren.
 - `title`: De titel die verschijnt in de lijst en in het browser tabblad. Ook hierop kun je de lijst sorteren.
 - `intro`: De tekst die verschijnt in de lijst. Opmaak niet mogelijk. Let op dat iedere regel inspringt.
 - `voorbeeld`: De voorbeeldzin als samenstelling van de segmenten (tussen aanhalingstekens). Ieder segment wordt vooraf gegaan door een - streepje. Er zijn neutrale segmenten en `goed:`/`fout:` segmenten. Gebruik zoveel segmenten als nodig.
 - `hints`: Opeenvolging van tips onder de voorbeeldzin, zoveel als nodig. Iedere hint wordt voorafgegaan door: - > en start met inspringing op een nieuwe regel. Het is toegestaan HTML code te gebruiken voor de opmaak, maar bij voorkeur beperkt tot <strong>vette</strong> en <em>schuine</em> tekst.
 - `uitleg`: De uitleg die onderaan verschijnt. Ook hier is HTML code toegestaan. Gebruik de editor op [html5-editor.net](https://html5-editor.net/) en plak de code hier. Code tussen <h4>header 4</h4> verschijnt als oranje kopje.
 
-Github gebruikt een versie-controle systeem. Beschrijf de wijzigingen onder **Commit changes** en klik op de groene Commit knop. Je kunt de wijzigingen altijd later terugvinden en eventueel terughalen.
+Github gebruikt een versie-controle systeem. Beschrijf de wijzigingen onder **Commit changes** en klik op de **[Commit changes]** knop. Je kunt de wijzigingen altijd later terugvinden en eventueel terughalen.
 
 ## 3. Toon het resultaat
 
@@ -82,5 +82,5 @@ De gegevens zijn nu live, en zullen een minuutje later op de website te zien zij
 
 Deze gegevens zijn open source gepubliceerd en derhalve openbaar toegankelijk. Plaats hier nooit vertrouwelijke informatie.
 
-Dit bestand zelf kan op dezelfde wijze aangepast worden als hierboven beschreven voor de taaltips. Begin stap 2 dan door [dit bestand](https://github.com/taalhulp/tiplijst/edit/test/README.md) aan te passen en volg verder de stappen.
+Dit README bestand zelf kan op dezelfde wijze aangepast worden als hierboven beschreven voor de taaltips. Begin stap 2 dan door [dit bestand](https://github.com/taalhulp/tiplijst/edit/test/README.md) aan te passen en volg verder de stappen.
 
