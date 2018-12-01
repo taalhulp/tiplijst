@@ -69,6 +69,8 @@ Github gebruikt een versie-controle systeem. Beschrijf de wijzigingen onder **Co
 
 De taaltip app maakt direct gebruik van de gegevens op Github. Je kunt het resultaat van de wijzigingen na ongeveer een minuut zien op [taalhulp123.nl/tiptest#/](https://www.taalhulp123.nl/tiptest#/). Als je geen lijst met resultaten ziet, is het waarchijnlijk dat de opmaak van het bestand in de vorige stap niet goed gegaan is. Deze link is niet vindbaar voor normale gebruikers, dus geen probleem als er hier iets niet goed gaat.
 
+Je kunt achtereenvolgens meerdere wijzigingen doorvoeren, opslaan via **Commit** (zie boven) en tonen in de testomgeving.
+
 ## 4. Voer de wijzigingen door
 
 De live website [taalhulp123.nl/taaltip#/](https://www.taalhulp123.nl/taaltip#/) is verbonden met de `master` branch van deze bewaarplaats. We kunnen een `merge` doen van de `test` branch naar de `master`.
