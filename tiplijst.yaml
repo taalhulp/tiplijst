@@ -69,7 +69,6 @@ teveel-of-te-veel:
       <li><strong>te veel</strong> slaap: <strong>te</strong> zegt iets over <strong>veel</strong> → een te grote dosis slaap.</li>
     </ul>
     <p>
-    <p>&nbsp;</p>
       <strong>Een teveel</strong> aan slaap maakt je nog slaperiger.
     </p>
     <ul>
@@ -83,8 +82,7 @@ persé-of-per-se:
   title: >
     persé of per se
   intro: >
-    Slechts één schrijfwijze is hier de juiste. Van belang is dat het een Latijnse uitdrukking is.
-    Wat is de spellingregel?
+    Slechts één schrijfwijze van deze Latijnse uitdrukking is de juiste. Welke spellingregel gaat hier op?
   voorbeeld:
     - "Zij wil dit jaar "
     - fout: "persé"
@@ -97,11 +95,16 @@ persé-of-per-se:
       In het Latijn schrijf je <strong>nooit</strong> een accentteken.
   uitleg: >
     <p>
-      De Latijnse uitdrukking blijft ongewijzigd in het Nederlands.
+      De Latijnse uitdrukkingen blijven ongewijzigd in het Nederlands.
     </p>
     <ul>
-      <li>per se &rarr; betekenis: beslist, absoluut</li>
+      <li>per se: beslist, absoluut</li>
     </ul>
+      <li>a priori: van tevoren, vooraf</li>
+      <li>a prima vista: op het eerste gezicht, van het blad (zingen of spelen)</li>
+      <li>in spe: toekomstig</li>
+      <li>de facto: feitelijk</li>
+      <li>een pre: een pluspunt</li>
 
 gestresst-of-gestrest:
   cat: werkwoord        # Kies: stijl/spelling/werkwoord
