@@ -128,9 +128,10 @@ gestresst-of-gestrest:
     - "."
   hints:
     - >
-      Engelse leenwerkwoorden gaan als het Nederlandse regelmatige werkwoord.
+      De vervoeging van Engelse leenwerkwoorden gaat hetzelfde als bij Nederlandse regelmatige werkwoorden.
     - >
-      <strong>kussen</strong>: ik kus - hij kust &rarr; <strong>stressen</strong>: ik stres - hij strest
+      <strong>krassen</strong>: ik kras - hij krast &rarr; <strong>stressen</strong>: ik stres - hij strest<br/>
+      <strong>brullen</strong>: ik brul - hij brult &rarr; <strong>grillen</strong>: ik gril - hij grilt
   uitleg: >
     <h4>Engelse leenwerkwoorden</h4>
     <p>
