@@ -5,8 +5,8 @@ ICT-er-of-ICT'er:
   title: >
     ICT-er of ICT’er, zzp'contract of zzp-contract
   intro: >
-    In woorden met een afkorting staat een apostrof of een verbindingsstreepje. 
-    Wanneer gebruik je de apostrof en wanneer het verbindingsstreepje?
+    In woorden die beginnen met een afkorting, staat een apostrof of een verbindingsstreepje. 
+    Welke spellingregels gaan hier op?
   voorbeeld:
     - "Menig "
     - fout: "ICT-er"
@@ -50,8 +50,8 @@ teveel-of-te-veel:
   title: >
     Teveel of te veel
   intro: >
-    Woorden die aan elkaar of los geschreven worden, hebben een verschillende betekenis. 
-    Met deze tip voorkom je een stijlfout.
+    Bijna-tweelingwoorden: aan elkaar of los geschreven levert een verschillende betekenis op. 
+    Met deze spellingtip voorkom je een stijlfout.
   voorbeeld:
     - fout: "Teveel"
       goed: "Te veel"
@@ -66,13 +66,14 @@ teveel-of-te-veel:
     </p>
     <ul>
       <li><strong>veel</strong> slaap: <strong>veel</strong> is een bijvoeglijk naamwoord en zegt iets over de slaap.</li>
-      <li><strong>te veel</strong> slaap: <strong>te</strong> zegt iets over veel → een te grote dosis slaap.</li>
+      <li><strong>te veel</strong> slaap: <strong>te</strong> zegt iets over <strong>veel</strong> → een te grote dosis slaap.</li>
     </ul>
+    <p>
     <p>
       <strong>Een teveel</strong> aan slaap maakt je nog slaperiger.
     </p>
     <ul>
-      <li><strong>teveel</strong> is hier een zelfstandig naamwoord. Hier komt dus geen spatie tussen te en veel.</li>
+      <li><strong>teveel</strong> is hier een zelfstandig naamwoord. Hier komt dus geen spatie tussen <strong>te</strong> en <strong>veel</strong>.</li>
     </ul>
 
 persé-of-per-se:
