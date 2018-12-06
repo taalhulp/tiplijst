@@ -5,8 +5,8 @@ ICT-er-of-ICT'er:
   title: >
     ICT-er of ICT’er, zzp'contract of zzp-contract
   intro: >
-    In woorden met een afkorting staat een apostrof of een verbindingsstreepje. 
-    Wanneer gebruik je de apostrof en wanneer het verbindingsstreepje?
+    In woorden die beginnen met een afkorting, staat een apostrof of een verbindingsstreepje. 
+    Welke spellingregels gaan hier op?
   voorbeeld:
     - "Menig "
     - fout: "ICT-er"
@@ -50,8 +50,8 @@ teveel-of-te-veel:
   title: >
     Teveel of te veel
   intro: >
-    Woorden die aan elkaar of los geschreven worden, hebben een verschillende betekenis. 
-    Met deze tip voorkom je een stijlfout.
+    Bijna-tweelingwoorden: aan elkaar of los geschreven levert een verschillende betekenis op. 
+    Met deze spellingtip voorkom je een stijlfout.
   voorbeeld:
     - fout: "Teveel"
       goed: "Te veel"
@@ -66,13 +66,13 @@ teveel-of-te-veel:
     </p>
     <ul>
       <li><strong>veel</strong> slaap: <strong>veel</strong> is een bijvoeglijk naamwoord en zegt iets over de slaap.</li>
-      <li><strong>te veel</strong> slaap: <strong>te</strong> zegt iets over veel → een te grote dosis slaap.</li>
-    </ul>
-    <p>
+      <li><strong>te veel</strong> slaap: <strong>te</strong> zegt iets over <strong>veel</strong> → een te grote dosis slaap.</li>
+    </ul> <br />
+    </p>
       <strong>Een teveel</strong> aan slaap maakt je nog slaperiger.
     </p>
     <ul>
-      <li><strong>teveel</strong> is hier een zelfstandig naamwoord. Hier komt dus geen spatie tussen te en veel.</li>
+      <li><strong>teveel</strong> is hier een zelfstandig naamwoord. Hier komt dus geen spatie tussen <strong>te</strong> en <strong>veel</strong>.</li>
     </ul>
 
 persé-of-per-se:
@@ -82,8 +82,7 @@ persé-of-per-se:
   title: >
     persé of per se
   intro: >
-    Slechts één schrijfwijze is hier de juiste. Van belang is dat het een Latijnse uitdrukking is.
-    Wat is de spellingregel?
+    Slechts één schrijfwijze van deze Latijnse uitdrukking is de juiste. Welke spellingregel gaat hier op?
   voorbeeld:
     - "Zij wil dit jaar "
     - fout: "persé"
@@ -96,21 +95,29 @@ persé-of-per-se:
       In het Latijn schrijf je <strong>nooit</strong> een accentteken.
   uitleg: >
     <p>
-      De Latijnse uitdrukking blijft ongewijzigd in het Nederlands.
+      De Latijnse uitdrukkingen blijven ongewijzigd in het Nederlands.
     </p>
     <ul>
-      <li>per se &rarr; betekenis: beslist, absoluut</li>
+     <strong>per se</strong>: 				beslist, absoluut
+     </p>
+    <ul style="list-style-type: none">
+     <li><strong>a priori</strong>: 			van tevoren, vooraf</li>
+     <li><strong>a prima vista</strong>: op het eerste gezicht, van het blad (zingen of spelen)</li>
+     <li><strong>in spe</strong>: 				toekomstig</li>
+     <li><strong>de facto</strong>: 			feitelijk</li>
+     <li><strong>een pre</strong>: 			een pluspunt</li>
     </ul>
+    
 
 gestresst-of-gestrest:
   cat: werkwoord        # Kies: stijl/spelling/werkwoord
   ref: p. 6-7
   datum: 2018-11-10   # YYY-MM-DD
   title: >
-    gestresst of gestrest, gril of grill
+    gestresst of gestrest, ik gril of ik grill
   intro: >
-    Hoe om te gaan met Engelse leenwoorden? Deze taaltip legt de verschillende regels uit voor 
-    Engelse zelfstandige naamwoorden en werkwoorden.
+    Engelse leenwoorden zoals app, grill, stress eindigen op een dubbele medeklinker. Gaat dat ook op voor Engelse leenwerkwoorden zoals appen, grillen, stressen?
+    
   voorbeeld:
     - "Jij raakt altijd  "
     - fout: "gestresst"
@@ -121,34 +128,46 @@ gestresst-of-gestrest:
     - "."
   hints:
     - >
-      Engelse leenwerkwoorden gaan als het Nederlandse regelmatige werkwoord.
+      De vervoeging van Engelse leenwerkwoorden gaat hetzelfde als bij Nederlandse regelmatige werkwoorden.
     - >
-      <strong>kussen</strong>: ik kus - hij kust &rarr; <strong>stressen</strong>: ik stres - hij strest
+      <strong>krassen</strong>: ik kras - hij krast &rarr; <strong>stressen</strong>: ik stres - hij strest<br/>
+      <strong>brullen</strong>: ik brul - hij brult &rarr; <strong>grillen</strong>: ik gril - hij grilt
   uitleg: >
     <h4>Engelse leenwerkwoorden</h4>
     <p>
-      De verleden tijd en het voltooid deelwoord gaan altijd volgens de regel van ’t kofschip.
+      De verleden tijd en het voltooid deelwoord gaan <strong>ook bij Engelse leenwerkwoorden</strong> volgens de regel van <strong>’t k</strong>o<strong>fsch</strong>i<strong>p</strong>.
     <br>
-      kuss<del>en</del>: de laatste letter van het hele werkwoord zonder -en is <strong>s</strong>. 
+    <br>
+      krass<del>en</del>: de laatste letter van het hele werkwoord zonder -en is een <strong>s</strong>. 
       De s staat in ’t kof<strong>s</strong>chip → stam <strong>+ te</strong>.
     </p>
     <ul>
-      <li>hij kus<strong>te</strong> - hij heeft gekus<strong>t</strong> &rarr; hij stres<strong>te</strong> - hij is gestre<strong>st</strong></li>
+      <li>hij kras<strong>te</strong> - hij heeft gekras<strong>t</strong> &rarr; hij stres<strong>te</strong> - hij is gestre<strong>st</strong></li>
     </ul>
+    
+      brull<del>en</del>: de laatste letter van het hele werkwoord zonder -en is een <strong>l</strong>. 
+      De l staat niet in ’t kofschip → stam <strong>+ de</strong>.
+    </p>
+    <ul>
+      <li>hij brul<strong>de</strong> - hij heeft gebrul<strong>d</strong> &rarr; hij gril<strong>de</strong> - hij heeft gegril<strong>d</strong></li>
+    </ul>
+    
 
     <h4>Engelse leenwoorden</h4>
-    <p><strong>de stress</strong>: zelfstandig naamwoorden houden wel de dubbele medeklinker</p>
-    <ul>
-      <li>de fitne<strong>ss</strong> &rarr; hij fitnest - hij heeft gefitnest</li>
-      <li>de to<strong>ss</strong> &rarr; hij tost - hij heeft getost</li>
-      <li>de gri<strong>ll</strong> &rarr; hij grilt - hij heeft gegrild</li>
-      <li>de ye<strong>ll</strong> &rarr; hij yelt - hij heeft geyeld</li>
+    <p><strong>de stress</strong>: wanneer een zelfstandig naamwoord uit het Engels op een dubbele medeklinker eindigt, dan blijft die dubbele medeklinker staan.</p>
+    <ul style="list-style-type: none">
+      <li>de fitne<strong>ss</strong> 	&nbsp; &harr; &nbsp; ik fitnes &nbsp; hij fitnest &nbsp;  hij heeft gefitnest</li>
+      <li>de to<strong>ss</strong> &nbsp;		&nbsp; &nbsp; &harr; &nbsp; ik tos &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; hij tost &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft getost</li>
+      <li>de gri<strong>ll</strong> &nbsp; 	&nbsp; &nbsp; &harr; &nbsp; ik gril &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      hij grilt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft gegrild</li>
+      <li>de ye<strong>ll</strong> &nbsp;		&nbsp; &nbsp; &harr; &nbsp; ik yel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij yelt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft geyeld</li>
     </ul>
-
-    <p>Soms is de dubbele medeklinker nodig voor de juiste uitspraak van het werkwoord.</p>
+    <br>
+    <p>Soms is de dubbele medeklinker ook nodig in de vervoeging van Engelse leenwerkwoorden, voor de juiste uitspraak van het werkwoord.</p>
     <ul>
-      <li>de app &rarr; hij appt</li>
-      <li>de baseball &rarr; hij baseballt</li>
+      <li>de app &nbsp; &nbsp; &nbsp; &nbsp; &rarr; &nbsp;&nbsp; &nbsp; ik a<strong>pp</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hij appt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hij heeft geappt</li>
+      <li>de baseball &nbsp; &rarr; &nbsp; ik baseba<strong>ll</strong> &nbsp; &nbsp; hij baseballt &nbsp; &nbsp; &nbsp; hij heeft gebaseballd</li>
+      <li>de pass &nbsp; &nbsp; &nbsp; &nbsp; &rarr; &nbsp; &nbsp; &nbsp; ik pa<strong>ss</strong> &nbsp; &nbsp; &nbsp; &nbsp; hij passt &nbsp; &nbsp;&nbsp; &nbsp; hij heeft gepasst (sportterm)
     </ul>
 
 babietje-of-baby'tje:
@@ -158,8 +177,7 @@ babietje-of-baby'tje:
   title: >
     babietje of baby’tje, hobbies of hobby’s
   intro: >
-    De juiste spelling van het meervoud of het verkleinwoord volgt uit de laatste letters van een woord.
-    In beide gevallen geldt dezelfde regel.
+    Wanneer een woord op een y eindigt, hoe schrijf je dan de meervoudsvorm en het verkleinwoord? Schrijf je s of tje eraan vast? 
   voorbeeld:
     - "Zij heeft sinds het "
     - fout: "babietje"
@@ -170,28 +188,36 @@ babietje-of-baby'tje:
     - "."
   hints:
     - >
-      <strong>hobby</strong>, <strong>baby</strong> - woorden die eindigen op <strong>medeklinker + y</strong>
-    - >
-      De regels voor het meervoud gelden ook voor het verkleinwoord.
+      <strong>hobby</strong>, <strong>baby</strong> - Bij woorden die eindigen op <strong>medeklinker + y</strong>,
+      gelden de regels voor het meervoud ook voor het verkleinwoord.
   uitleg: >
-    <h4>Regel: een woord dat eindigt op medeklinker + y</h4>
-    <p>Bij meervoud: de <strong>s</strong> komt na de apostrof:'</p>
     <ul>
-      <li>hob<strong>by</strong> &rarr; hobby<strong>'s</strong></li>
-      <li>ba<strong>by</strong> &rarr; baby<strong>'s</strong></li>
+    <li><strong>meervoud</strong></li>
+    </ul>
+    <p>
+    Wanneer een woord eindigt op medeklinker + y, krijgt het meervoud een <strong>apostrof + s</strong>:
+    </p>
+    <ul style="list-style-type: none">
+      <li>baby<strong>'s</strong></li>
+      <li>hobby<strong>'s</strong></li>
+      <li>lolly<strong>'s</strong></li>
+      <li>party<strong>'s</strong></li>
+    </ul>
+    <br>
+    <ul>
+    <li><strong>verkleinwoord</strong></li>
+    </ul>
+    <p>Wanneer het woord eindigt op medeklinker + y, krijgt het verkleinwoord een <strong>apostrof + s</strong>:
+    <br>
+    <ul style="list-style-type: none">
+      <li>baby<strong>'tje</strong></li>
+      <li>hobby<strong>'tje</strong></li>
+      <li>lolly<strong>'tje</strong></li>
     </ul>
 
-    <p>Bij verkleinwoord: <strong>tje</strong> komt na de apostrof:’</p>
-    <ul>
-      <li>hob<strong>by</strong> &rarr; hobby<strong>'tje</strong></li>
-      <li>ba<strong>by</strong> &rarr; baby<strong>'tje</strong></li>
-    </ul>
-
-    <p><strong>y</strong> blijft staan</p>
-    <ul>
-      <li>loll<strong>y</strong> &rarr; loll<strong>y</strong>'s</li>
-      <li>loll<strong>y</strong> &rarr; loll<strong>y</strong>'tje</li>
-    </ul>
+    <p>Wanneer het woord eindigt op een medeklinker + <strong>y</strong>, verandert de y <strong>nooit</strong> in <strong>ie!</strong></p> 
+    <p>Wanneer een woord op een <strong>klinker + y</strong> eindigt, zoals <strong>jockey</strong> &rarr; Taaltip <strong> cowboy's of cowboys, cadeau's of cadeaus</strong>
+      
 
 cadeau's-of-cadeaus:
   cat: spelling          # Kies: stijl/spelling/werkwoord
@@ -200,8 +226,7 @@ cadeau's-of-cadeaus:
   title: >
     cowboy’tje of cowboytje, cadeau’s of cadeaus
   intro: >
-    Hoe schrijf je de meervoudsvorm en het verkleinwoord van woorden die eindigen op een
-    combinatie van klinkers? Komt er nu wel of niet een apostrof voor -s en -tje?
+    Wanneer een woord op een combinatie van klinkers eindigt, hoe schrijf je dan de meervoudsvorm en het verkleinwoord? Schrijf je s of tje eraan vast?
   voorbeeld:
     - "Het jarige "
     - fout: "cowboy’tje"
@@ -212,20 +237,24 @@ cadeau's-of-cadeaus:
     - "."
   hints:
     - >
-      <em>cowboy</em>, <em>cadeau</em> - woorden die eindigen op een combinatie van klinkers
-    - >
-      De regels voor het meervoud gelden hier ook voor het verkleinwoord.
+      <em>cowboy</em>, <em>cadeau</em> - Wanneer woorden eindigen op een combinatie van klinkers, gelden de regels voor het meervoud ook voor het verkleinwoord.
+    
   uitleg: >
-    <h4>Een woord eindigt op een combinatie van klinkers:</h4>
-    <p>bij meervoud: de <strong>s</strong> zit eraan vast:</p>
     <ul>
-      <li>cadeau &rarr; cadeau<strong>s</strong></li>
-      <li>cowboy &rarr; cowboy<strong>s</strong></li>
-      <li>etui &rarr; etui<strong>s</strong></li>
+    <li><strong>meervoud</strong>
     </ul>
-    <p>bij verkleinwoord: <strong>tje</strong> zit eraan vast:</p>
-    <ul>
-    <li>cadeau &rarr; cadeau<strong>tje</strong></li>
-    <li>cowboy &rarr; cowboy<strong>tje</strong></li>
-    <li>etui &rarr; etui<strong>tje</strong></li>
+    <p>Wanneer een woord eindigt op een combinatie van klinkers, zit de meervouds-<strong>s</strong> eraan vast:</p>
+    <ul style="list-style-type: none">
+      <li>cadeau<strong>s</strong></li>
+      <li>cowboy<strong>s</strong></li>
+      <li>etui<strong>s</strong></li>
+    </ul>
+    <br>
+    <ul><li><strong>verkleinwoord</strong></li> 
+    </ul>
+    <p>Wanneer het woord eindigt op een combinatie van klinkers, zit <strong>tje</strong> eraan vast:</p>
+    <ul style="list-style-type: none">
+    <li>cadeau<strong>tje</strong></li>
+    <li>cowboy<strong>tje</strong></li>
+    <li>etui<strong>tje</strong></li>
     </ul>
