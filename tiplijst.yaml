@@ -151,24 +151,69 @@ gestresst-of-gestrest:
     <ul>
       <li>hij brul<strong>de</strong> - hij heeft gebrul<strong>d</strong> &rarr; hij gril<strong>de</strong> - hij heeft gegril<strong>d</strong></li>
     </ul>
-    
+
 
     <h4>Engelse leenwoorden</h4>
     <p><strong>de stress</strong>: wanneer een zelfstandig naamwoord uit het Engels op een dubbele medeklinker eindigt, dan blijft die dubbele medeklinker staan.</p>
-    <ul style="list-style-type: none">
-      <li>de fitne<strong>ss</strong> 	&nbsp; &harr; &nbsp; ik fitnes &nbsp; hij fitnest &nbsp;  hij heeft gefitnest</li>
-      <li>de to<strong>ss</strong> &nbsp;		&nbsp; &nbsp; &harr; &nbsp; ik tos &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; hij tost &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft getost</li>
-      <li>de gri<strong>ll</strong> &nbsp; 	&nbsp; &nbsp; &harr; &nbsp; ik gril &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      hij grilt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft gegrild</li>
-      <li>de ye<strong>ll</strong> &nbsp;		&nbsp; &nbsp; &harr; &nbsp; ik yel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij yelt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hij heeft geyeld</li>
-    </ul>
-    <br>
+    <table>
+      <tbody>
+      <tr>
+        <td>de fitness</td>
+        <td>&harr;</td>
+        <td>ik fitnes</td>
+        <td>hij fitnest</td>
+        <td>hij heeft gefitnest</td>
+      </tr>
+      <tr>
+        <td>de toss</td>
+        <td>&harr;</td>
+        <td>ik tos</td>
+        <td>hij tost</td>
+        <td>hij heeft getost</td>
+      </tr>
+      <tr>
+        <td>de grill</td>
+        <td>&harr;</td>
+        <td>ik grill</td>
+        <td>hij grilt</td>
+        <td>hij heeft gegrild</td>
+      </tr>
+      <tr>
+        <td>de yell</td>
+        <td>&harr;</td>
+        <td>ik yel</td>
+        <td>hij yelt</td>
+        <td>hij heeft geyeld</td>
+      </tr>
+      </tbody>
+    </table>
     <p>Soms is de dubbele medeklinker ook nodig in de vervoeging van Engelse leenwerkwoorden, voor de juiste uitspraak van het werkwoord.</p>
-    <ul>
-      <li>de app &nbsp; &nbsp; &nbsp; &nbsp; &rarr; &nbsp;&nbsp; &nbsp; ik a<strong>pp</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hij appt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hij heeft geappt</li>
-      <li>de baseball &nbsp; &rarr; &nbsp; ik baseba<strong>ll</strong> &nbsp; &nbsp; hij baseballt &nbsp; &nbsp; &nbsp; hij heeft gebaseballd</li>
-      <li>de pass &nbsp; &nbsp; &nbsp; &nbsp; &rarr; &nbsp; &nbsp; &nbsp; ik pa<strong>ss</strong> &nbsp; &nbsp; &nbsp; &nbsp; hij passt &nbsp; &nbsp;&nbsp; &nbsp; hij heeft gepasst (sportterm)
-    </ul>
+    <table>
+      <tbody>
+      <tr>
+        <td>de app</td>
+        <td>&harr;</td>
+        <td>ik a<strong>pp</strong></td>
+        <td>hij appt</td>
+        <td>hij heeft geappt</td>
+      </tr>
+      <tr>
+        <td>de baseball</td>
+        <td>&harr;</td>
+        <td>ik baseba<strong>ll</strong></td>
+        <td>hij baseballt</td>
+        <td>hij heeft gebaseballd</td>
+      </tr>
+      <tr>
+        <td>de pass</td>
+        <td>&harr;</td>
+        <td>ik pa<strong>ss</strong></td>
+        <td>hij passt</td>
+        <td>hij heeft gepasst (sportterm)</td>
+      </tr>
+      </tbody>
+    </table>
+
 
 babietje-of-baby'tje:
   cat: spelling          # Kies: stijl/spelling/werkwoord
