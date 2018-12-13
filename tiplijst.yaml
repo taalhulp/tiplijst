@@ -3,7 +3,7 @@ Oudjaar-of-oudjaar,-Nieuwjaarsdag-of-nieuwjaarsdag:
   ref: kolom 9       # Verschijnt als: "Stijlhulp123 kolom 13"
   datum: 2018-12-13   # YYYY-MM-DD
   title: >
-  Oudjaar of oudjaar, Nieuwjaarsdag of nieuwjaarsdag 
+    Oudjaar of oudjaar, Nieuwjaarsdag of nieuwjaarsdag 
   intro: >
     Schrijf je een feestdag altijd met een hoofdletter? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
@@ -20,8 +20,7 @@ Oudjaar-of-oudjaar,-Nieuwjaarsdag-of-nieuwjaarsdag:
     - >
       Tweede hint en zoveel hints als je wilt
   uitleg: >
-        <p>
-        <p><strong>Met hoofdletter of kleine letter?</strong></p>
+    <p><strong>Met hoofdletter of kleine letter?</strong></p>
     <table>
     <tbody>
     <tr>
@@ -97,9 +96,9 @@ Oudjaar-of-oudjaar,-Nieuwjaarsdag-of-nieuwjaarsdag:
     </tr>
     </tbody>
     </table>
-    <p><span style="color: #008000;"><strong>Let op:</strong></span> alleen de offici&euml;le namen van offici&euml;le feestdagen krijgen een hoofdletter.</p>
-          
+    <p><span style="color: #008000;"><strong>Let op:</strong></span> alleen de offici&euml;le namen van offici&euml;le feestdagen krijgen een hoofdletter.</p>     
     </p>
+
 ICT-er-of-ICT'er:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 13       # Verschijnt als: "Spellinghulp123 kolom 13"
