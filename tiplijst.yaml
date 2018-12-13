@@ -1,3 +1,95 @@
+Oudjaar-of-oudjaar-Nieuwjaarsdag-of-nieuwjaarsdag:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 9       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2018-12-13   # YYYY-MM-DD
+  title: >
+    Oudjaar of oudjaar, Nieuwjaarsdag of nieuwjaarsdag 
+  intro: >
+    Schrijf je een feestdag altijd met een hoofdletter? 
+  voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
+    - "Straks gaan we met "
+    - fout: "Oudjaar"
+      goed: "oudjaar"
+    - " naar Texel. Op "
+    - fout: "Nieuwjaarsdag"
+      goed: "nieuwjaarsdag"
+    - " duiken we dan in zee."
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - >
+      <strong>Officiële namen</strong> van feestdagen schrijf je met een <strong>hoofdletter</strong>. 
+   
+  uitleg: >
+    <p><strong>Met hoofdletter of kleine letter?</strong></p>
+    <table>
+      <tr>
+        <th>
+          officiële feestdag
+        </th>
+        <th></th>
+        <th>geen officiële feestdag</th>
+      </tr>
+      <tbody>
+        <tr>
+          <td><strong>N</strong>ieuwjaar (1 januari)</td>
+          <td>&harr;</td>
+          <td><strong>o</strong>udjaar (31 december)</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>&nbsp;</p>
+    <table>
+      <tbody>
+        <tr>
+          <th>
+            officiële benaming
+          </th>
+          <th></th>
+          <th>afgeleide vorm</th>
+        </tr>
+        <tr>
+          <td>
+            <strong>N</strong>ieuwjaar
+          </td>
+          <td>&harr;</td>
+          <td><strong>n</strong>ieuwjaarsdag, <strong>n</strong>ieuwjaarsborrel</td>
+        </tr>
+        <tr>
+          <td><strong>C</strong>hanoeka</td>
+          <td>&harr;</td>
+          <td><strong>c</strong>hanoekakaars</td>
+        </tr>
+        <tr>
+          <td><strong>K</strong>erstmis</td>
+          <td>&harr;</td>
+          <td><strong>k</strong>erst,<strong> k</strong>erstfeest,<strong> t</strong>weede<strong> k</strong>erstdag,<strong>
+              k</strong>erstbal,<strong> k</strong>erstverhaal</td>
+        </tr>
+        <tr>
+          <td><strong>P</strong>asen</td>
+          <td>&harr;</td>
+          <td><strong>e</strong>erste<strong> p</strong>aasdag<strong>,</strong> <strong>p</strong>aasviering,<strong> p</strong>aasei</td>
+        </tr>
+        <tr>
+          <td><strong>S</strong>interklaas</td>
+          <td>&harr;</td>
+          <td><strong>s</strong>interklaasgedicht</td>
+        </tr>
+        <tr>
+          <td><strong>S</strong>uikerfeest</td>
+          <td>&harr;</td>
+          <td><strong>s</strong>uikerfeestperiode</td>
+        </tr>
+        <tr>
+          <td><strong>V</strong>aderdag</td>
+          <td>&harr;</td>
+          <td><strong>v</strong>aderdagcadeautje</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><span style="color: #008000;"><strong>Let op:</strong></span> alleen de officiële namen van officiële
+      feestdagen krijgen een hoofdletter.</p>
+    </p>
+
 ICT-er-of-ICT'er:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 13       # Verschijnt als: "Spellinghulp123 kolom 13"
