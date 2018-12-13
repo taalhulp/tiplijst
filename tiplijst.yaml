@@ -58,7 +58,7 @@ teveel-of-te-veel:
     - " slaap maakt je nog slaperiger."
   hints:
     - >
-      Je schrijft <strong>teveel</strong> alleen aan elkaar als je er <strong>een</strong> voor kunt zetten.
+      Je schrijft <strong>teveel</strong> alleen aan elkaar als je er <strong>een</strong> of <strong>het</strong> voor kunt zetten.
   uitleg: >
     <p>
       <strong>Te veel</strong> slaap maakt je nog slaperiger. <strong>te veel</strong> zijn hier twee woorden, 
@@ -260,8 +260,8 @@ babietje-of-baby'tje:
       <li>lolly<strong>'tje</strong></li>
     </ul>
 
-    <p><strong><span style="color: #008000;">*</span></strong>&nbsp; &nbsp;Wanneer het woord eindigt op een <strong>medeklinker</strong> + <strong>y</strong>, verandert de y <strong>nooit</strong> in <strong>ie!</strong></p> 
-    <p><strong><span style="color: #008000;">**</span></strong> Wanneer een woord op een <strong>klinker + y</strong> eindigt, zoals <strong>jockey</strong> &rarr; Taaltip <strong> cowboy's of cowboys, cadeau's of cadeaus</strong>
+    <p><span style="color: #008000;"><strong>Let op 1.</strong></span> Wanneer het woord eindigt op een <strong>medeklinker</strong> + <strong>y</strong>, verandert de y <strong>nooit</strong> in<strong> ie</strong>.</p>
+    <p><span style="color: #008000;"><strong>Let op 2.</strong></span> Wanneer een woord eindigt op een <strong>klinker</strong> + <strong>y</strong>,&nbsp; zoals <strong>jockey</strong> &rarr; Taaltip <strong> cowboy's of cowboys, cadeau's of cadeaus</strong>
       
 
 cadeau's-of-cadeaus:
@@ -288,7 +288,11 @@ cadeau's-of-cadeaus:
     <ul>
     <li><strong>meervoud</strong>
     </ul>
-    <p>Wanneer een woord afkomstig uit het Engels en het Frans eindigt op een combinatie van klinkers, zit de meervouds-<strong>s</strong> eraan vast:</p>
+    <p>De meervouds-<strong>s</strong> zit vast aan het woord</p>
+    <p>
+    <ul style="list-style-type: none">
+    <li>als het woord eindigt op een combinatie van klinkers</li>
+    <li>en als het woord afkomstig is uit het Engels of het Frans</li>
     <ul style="list-style-type: none">
       <li>cadeau<strong>s</strong></li>
       <li>cowboy<strong>s</strong></li>
