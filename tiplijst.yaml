@@ -53,10 +53,20 @@ Oudjaar-of-oudjaar-Nieuwjaarsdag-of-nieuwjaarsdag:
           <td>&harr;</td>
           <td><strong>n</strong>ieuwjaarsdag, <strong>n</strong>ieuwjaarsborrel</td>
         </tr>
+        <tr>  
+          <td><strong>B</strong>evrijdingsdag (5 mei)</td)
+          <td>&harr;</td>
+          <td><strong>b</evrijdingsconcert</td>
+        </tr>
         <tr>
           <td><strong>C</strong>hanoeka</td>
           <td>&harr;</td>
           <td><strong>c</strong>hanoekakaars</td>
+        </tr>
+        <tr>
+          <td><strong>H</strong>emelvaartsdag</td>
+          <td>&harr;</td>
+          <td><strong>h</strong>emelvaartsweekend</td>
         </tr>
         <tr>
           <td><strong>K</strong>erstmis</td>
@@ -65,9 +75,19 @@ Oudjaar-of-oudjaar-Nieuwjaarsdag-of-nieuwjaarsdag:
               k</strong>erstbal,<strong> k</strong>erstverhaal</td>
         </tr>
         <tr>
+          <td><strong>K</strong>oningsdag (27 april)</td>
+          <td>&harr;</td>
+          <td><strong>k</strong>oningsdagcomité</td>
+        </tr>
+        <tr>
           <td><strong>P</strong>asen</td>
           <td>&harr;</td>
           <td><strong>e</strong>erste<strong> p</strong>aasdag<strong>,</strong> <strong>p</strong>aasviering,<strong> p</strong>aasei</td>
+        </tr>
+        <tr>
+          <td><strong>P</strong>inksteren</td>
+          <td>&harr;</td>
+          <td><strong>p</strong>inkstergemeente, <strong>p</strong>inkstertijd, <strong>p</strong>inksterbloem</td>
         </tr>
         <tr>
           <td><strong>S</strong>interklaas</td>
