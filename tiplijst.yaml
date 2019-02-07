@@ -9,7 +9,7 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
     - fout: "Vorig jaar snowboarde ik nog"
       goed: "Vorig jaar <span style="text-decoration: line-through;"><span style="color: #ff0000; text-decoration: line-through;">snowboarde</span></span> ik nog,"
-    - "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: #00ff00;"><strong> snowboardde</strong></span></p> "
+    - 
     - fout: "gelanglaufd"
       goed: "gelanglauft"
     - "."
