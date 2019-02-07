@@ -7,10 +7,10 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   intro: >
     -te of -de in de verleden tijd? Eindigt het voltooid deelwoord op -t of -d? Hoe werkt dat? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
-    - fout: "Vorig jaar"
-    - goed: <span style="text-decoration: line-through;"><span style="color: #ff0000; text-decoration: line-through;">snowboarde</span></span> 
-     
-    - fout: "gelanglaufd"
+   - "Vorig jaar "
+   - fout: "snowboarde "
+      goed: "ik nog, maar dit jaar heb ik "
+   - fout: "gelanglaufd"
       goed: "gelanglauft"
     - "."
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
