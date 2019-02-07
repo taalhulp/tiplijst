@@ -9,9 +9,9 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
    - "Vorig jaar "
    - fout: "snowboarde "
-      goed: "ik nog, maar dit jaar heb ik "
+     goed: "ik nog, maar dit jaar heb ik "
    - fout: "gelanglaufd"
-      goed: "gelanglauft"
+     goed: "gelanglauft"
     - "."
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
