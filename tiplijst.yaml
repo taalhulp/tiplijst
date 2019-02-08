@@ -7,17 +7,16 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   intro: >
     -te of -de in de verleden tijd? Eindigt het voltooid deelwoord op -t of -d? Hoe werkt dat? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
-   - "Vorig jaar "
-   - fout: "snowboarde "
-     goed: "ik nog, maar dit jaar heb ik "
-   - fout: "gelanglaufd"
-     goed: "gelanglauft"
+    - "Vorig jaar "
+    - fout: "snowboarde"
+      goed: "snowboardde"
+    - " ik nog, maar dit jaar heb ik "
+    - fout: "gelanglaufd"
+      goed: "gelanglauft"
     - "."
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       <p>De verleden tijd en het voltooid deelwoord van regelmatige werkwoorden gaan <strong>volgens de regel van 't kofschip</strong>.
-    
-      
   uitleg: >
     <p><strong>snowboarden</strong> en <strong>langlaufen</strong> zijn regelmatige werkwoorden.</p>
     <p><strong>verleden tijd</strong>: de vervoeging gaat volgens de regel van &rsquo;t kofschip.</p>
@@ -29,7 +28,6 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
     </ul>
      <p>langlauf<span style="text-decoration: line-through;">en</span>&nbsp;&rarr; langlau<strong>f</strong> (<strong>f</strong> zit in &rsquo;t ko<strong>f</strong>schip)&nbsp;&rarr; ik langlau<strong>f</strong> + te: ik langlauf<strong>te &ndash; </strong>wij langlauf<strong>ten</strong></p>
      <p>snowboard<span style="text-decoration: line-through;">en</span>&nbsp;&rarr; snowboar<strong>d</strong> (<strong>d</strong> zit niet in &rsquo;t kofschip)&nbsp;&rarr; ik snowboar<strong>d</strong> + de: ik snowboard<strong>de &ndash; </strong>wij snowboard<strong>den</strong></p>
-   
     <p><strong>voltooid deelwoord: </strong>kijk naar de uitgang van de verleden tijd.</p>
       <table style="width: 313px;">
       <tbody>
@@ -65,7 +63,6 @@ Oudjaar-of-oudjaar-Nieuwjaarsdag-of-nieuwjaarsdag:
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       <strong>Officiële namen</strong> van feestdagen schrijf je met een <strong>hoofdletter</strong>. 
-   
   uitleg: >
     <p><strong>Met hoofdletter of kleine letter?</strong></p>
     <table>
@@ -277,7 +274,6 @@ gestresst-of-gestrest:
     gestresst of gestrest, ik gril of ik grill
   intro: >
     Engelse leenwoorden zoals app, grill, stress eindigen op een dubbele medeklinker. Gaat dat ook op voor Engelse leenwerkwoorden zoals appen, grillen, stressen?
-    
   voorbeeld:
     - "Jij raakt altijd  "
     - fout: "gestresst"
@@ -311,8 +307,6 @@ gestresst-of-gestrest:
     <ul>
       <li>hij brul<strong>de</strong> - hij heeft gebrul<strong>d</strong> &rarr; hij gril<strong>de</strong> - hij heeft gegril<strong>d</strong></li>
     </ul>
-
-
     <h4>Engelse leenwoorden</h4>
     <p><strong>de stress</strong>: wanneer een zelfstandig naamwoord uit het Engels op een dubbele medeklinker eindigt, dan blijft die dubbele medeklinker staan.</p>
     <table>
@@ -419,7 +413,6 @@ babietje-of-baby'tje:
       <li>hobby<strong>'tje</strong></li>
       <li>lolly<strong>'tje</strong></li>
     </ul>
-
     <p><span style="color: #008000;"><strong>Let op 1.</strong></span> Wanneer het woord eindigt op een <strong>medeklinker</strong> + <strong>y</strong>, verandert de y <strong>nooit</strong> in<strong> ie</strong>.</p>
     <p><span style="color: #008000;"><strong>Let op 2.</strong></span> Wanneer een woord eindigt op een <strong>klinker</strong> + <strong>y</strong>,&nbsp; zoals <strong>jockey</strong> &rarr; Taaltip <strong> cowboy's of cowboys</strong>
       
@@ -443,7 +436,6 @@ cadeau's-of-cadeaus:
   hints:
     - >
       cowboy, cadeau - Wanneer woorden eindigen op een combinatie van klinkers, gelden de regels voor het meervoud ook voor het verkleinwoord.
-    
   uitleg: >
    <ul>
     <li><strong>meervoud</strong></li>
