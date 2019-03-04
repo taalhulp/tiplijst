@@ -1,3 +1,58 @@
+langlauf ski's-of-langlaufski's-ski jack-of-ski-jack:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 5,6       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-03-04   # YYYY-MM-DD
+  title: >
+    langlauf ski's of langlaufski's, ski jack of ski-jack
+  intro: >
+    Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen? 
+  voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
+    - "Aanbieding: "
+    - fout: "langlauf ski's"
+      goed: "langlaufski's"
+    - " en "
+    - fout: "ski jack"
+      goed: "ski-jack"
+    - " met bontkraag."
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - >
+      <p>Samengestelde woorden schrijf je zoveel mogelijk aaneen>.
+  uitleg: >
+    <p>Een samengestelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:</p>
+      <table style="width: 313px;">
+      <tbody>
+      <tr>
+      <td style="width: 140px;">ski + school</td>
+      <td style="width: 187px;">&rarr; skischool</td>
+      </tr>
+      <tr>
+      <td style="width: 140px;">lawine + gevaar</td>
+      <td style="width: 187px;">&rarr; lawinegevaar</td>
+      </tr>
+      <tr>
+      <td style="width: 140px;">winter + sport + kleding</td>
+      <td style="width: 187px;">&rarr; wintersportkleding</td>
+      </tr>
+      <tr>
+      <td style="width: 140px;">winter + sport + kleding</td>
+      <td style="width: 187px;">&rarr; wintersportkleding</td>
+      </tbody>
+      </table>
+    <p>Samenstellingen schrijf je zoveel mogelijk aaneen.</p>
+    <p>Om uitspraakproblemen te vermijden, komt er een streepje tussen die twee delen:</p>
+    <table style="width: 313px;">
+      <tbody>
+      <tr>
+      <td style="width: 140px;">ski + school</td>
+      <td style="width: 187px;">&rarr; skischool</td>
+      </tr>
+      <tr>
+      <td style="width: 140px;">lawine + gevaar</td>
+      <td style="width: 187px;">&rarr; lawinegevaar</td>
+      </tr>
+    
+    <p><span style="color: #008000;"><strong>Let op:</strong></span> <strong>snowboarden</strong> en <strong>langlaufen</strong> zijn leenwerkwoorden, respectievelijk uit het Engels en Duits.</p>
+    <p>Leenwerkwoorden zijn in het Nederlands altijd regelmatige <span style="background-color: #ffffff;">werkwoorden.</span></p>
 snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
