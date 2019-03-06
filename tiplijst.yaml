@@ -16,40 +16,43 @@ langlauf ski's-of-langlaufski's-ski jack-of-ski-jack:
     - " met bontkraag."
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
-      <p>Samengestelde woorden schrijf je zoveel mogelijk aaneen>.
+      <p>Samengestelde woorden schrijf je zoveel mogelijk aaneen.
   uitleg: >
     <p>Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:</p>
-      <table style="width: 313px;">
-      <tbody>
-      <tr>
-      <td style="width: 140px;">ski + school</td>
-      <td style="width: 187px;">&rarr; skischool</td>
-      </tr>
-      <tr>
-      <td style="width: 140px;">lawine + gevaar</td>
-      <td style="width: 187px;">&rarr; lawinegevaar</td>
-      </tr>
-      <tr>
-      <td style="width: 140px;">winter + sport + kleding</td>
-      <td style="width: 187px;">&rarr; wintersportkleding</td>
-      </tr>
-      <tr>
-      <td style="width: 140px;">winter + sport + kleding</td>
-      <td style="width: 187px;">&rarr; wintersportkleding</td>
-      </tbody>
-      </table>
-    <p>Samenstellingen schrijf je zoveel mogelijk aaneen.</p>
-    <p>Om uitspraakproblemen te vermijden, komt er een streepje tussen die twee delen:</p>
-    <table style="width: 313px;">
-      <tbody>
-      <tr>
-      <td style="width: 140px;">ski + jack</td>
-      <td style="width: 187px;">&rarr; ski-jack (Zonder streepje lees je een ij:<span style="text-decoration: line-through;">skijack</span></td>
-      </tr> 
-      <tr>
-      <td style="width: 140px;">ski + jack + aanbieding</td>
-      <td style="width: 187px;">&rarr; ski-jackaanbieding</td>
-      </tr>
+      <table style="width: 375px;">
+    <tbody>
+    <tr>
+    <td style="width: 244px;">ski + school</td>
+    <td style="width: 163px;">&rarr; skischool</td>
+    </tr>
+    <tr>
+    <td style="width: 244px;">lawine + gevaar</td>
+    <td style="width: 163px;">&rarr; lawinegevaar</td>
+    </tr>
+    <tr>
+    <td style="width: 244px;">winter + sport + kleding</td>
+    <td style="width: 163px;">&rarr; wintersportkleding</td>
+    </tr>
+    <tr>
+    <td style="width: 244px;">winter + sport + kleding</td>
+    <td style="width: 163px;">&rarr; wintersportkleding</td>
+    </tr>
+    </tbody>
+    </table>
+   <p>Samenstellingen schrijf je zoveel mogelijk aaneen.</p>
+   <p>Om uitspraakproblemen te vermijden, komt er een streepje tussen die twee delen:</p>
+   <table style="width: 504px;">
+   <tbody>
+   <tr>
+   <td style="width: 209px;">ski + jack</td>
+   <td style="width: 329px;">&rarr; ski-jack (Zonder streepje lees je een&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ij:<span style="text-decoration: line-through;">skijack</span>)</td>
+   </tr>
+   <tr>
+   <td style="width: 209px;">ski + jack + aanbieding</td>
+   <td style="width: 329px;">&rarr; ski-jackaanbieding</td>
+   </tr>
+   </tbody>
+   </table>
       <p><span style="color: #008000;"><strong>Let op:</strong></span>
       <table style="width: 313px;">
       <tbody>
