@@ -18,7 +18,7 @@ langlauf ski's-of-langlaufski's-ski jack-of-ski-jack:
     - >
       <p>Samengestelde woorden schrijf je zoveel mogelijk aaneen>.
   uitleg: >
-    <p>Een samengestelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:</p>
+    <p>Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:</p>
       <table style="width: 313px;">
       <tbody>
       <tr>
@@ -43,16 +43,25 @@ langlauf ski's-of-langlaufski's-ski jack-of-ski-jack:
     <table style="width: 313px;">
       <tbody>
       <tr>
-      <td style="width: 140px;">ski + school</td>
-      <td style="width: 187px;">&rarr; skischool</td>
+      <td style="width: 140px;">ski + jack</td>
+      <td style="width: 187px;">&rarr; ski-jack (Zonder streepje lees je een ij:<span style="text-decoration: line-through;">skijack</span></td>
+      </tr> 
+      <tr>
+      <td style="width: 140px;">ski + jack + aanbieding</td>
+      <td style="width: 187px;">&rarr; ski-jackaanbieding</td>
+      </tr>
+      <p><span style="color: #008000;"><strong>Let op:</strong></span>
+      <table style="width: 313px;">
+      <tbody>
+      <tr>
+      <td style="width: 140px;"><strong>geen uitspraakprobleem</strong></td>
+      <td style="width: 187px;"><strong>uitspraakprobleem</stron></td>
       </tr>
       <tr>
-      <td style="width: 140px;">lawine + gevaar</td>
-      <td style="width: 187px;">&rarr; lawinegevaar</td>
+      <td style="width: 140px;">skiavontuur, skiongeluk</td>
+      <td style="width: 187px;">&harr; ski-ervaring, ski-instructeur</td>
       </tr>
-    
-    <p><span style="color: #008000;"><strong>Let op:</strong></span> <strong>snowboarden</strong> en <strong>langlaufen</strong> zijn leenwerkwoorden, respectievelijk uit het Engels en Duits.</p>
-    <p>Leenwerkwoorden zijn in het Nederlands altijd regelmatige <span style="background-color: #ffffff;">werkwoorden.</span></p>
+      
 snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
