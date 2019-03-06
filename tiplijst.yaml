@@ -19,10 +19,8 @@ langlauf ski's-of-langlaufski's-ski jack-of-ski-jack:
       <p>Samengestelde woorden schrijf je zoveel mogelijk aaneen.
   uitleg: >
     <p>Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:</p>
-      
-      
-      
-snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
+  
+  snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
   datum: 2019-01-25   # YYYY-MM-DD
