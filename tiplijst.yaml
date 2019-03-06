@@ -1,3 +1,102 @@
+ langlauf ski's-of-langlaufski's-of-ski jack-of-ski-jack:
+  cat: spelling        # Kies: stijl/spelling/werkwoord
+  ref: kolom 5-6
+  datum: 2019-03-07   # YYY-MM-DD
+  title: >
+    langlauf ski's of langlaufski's, ski jack of ski-jack?
+  intro: >
+    Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen?
+  voorbeeld:
+    - "Aanbieding:  "
+    - fout: "langlauf ski's"
+      goed: "langlaufski's"
+    - "en "
+    - fout: "ski jack"
+      goed: "ski-jack"
+    - " met bontkraag"
+  hints:
+    - >
+      Samengestelde woorden schrijf je zoveel mogelijk aaneen.
+  uitleg: >
+    <h4>Engelse leenwerkwoorden</h4>
+    <p>
+      De verleden tijd en het voltooid deelwoord gaan <strong>ook bij Engelse leenwerkwoorden</strong> volgens de regel van <strong>’t k</strong>o<strong>fsch</strong>i<strong>p</strong>.
+    <br>
+    <br>
+      krass<del>en</del>: de laatste letter van het hele werkwoord zonder -en is een <strong>s</strong>. 
+      De s staat in ’t kof<strong>s</strong>chip → stam <strong>+ te</strong>.
+    </p>
+    <ul>
+      <li>hij kras<strong>te</strong> - hij heeft gekras<strong>t</strong> &rarr; hij stres<strong>te</strong> - hij is gestre<strong>st</strong></li>
+    </ul>
+    
+      brull<del>en</del>: de laatste letter van het hele werkwoord zonder -en is een <strong>l</strong>. 
+      De l staat niet in ’t kofschip → stam <strong>+ de</strong>.
+    </p>
+    <ul>
+      <li>hij brul<strong>de</strong> - hij heeft gebrul<strong>d</strong> &rarr; hij gril<strong>de</strong> - hij heeft gegril<strong>d</strong></li>
+    </ul>
+    <h4>Engelse leenwoorden</h4>
+    <p><strong>de stress</strong>: wanneer een zelfstandig naamwoord uit het Engels op een dubbele medeklinker eindigt, dan blijft die dubbele medeklinker staan.</p>
+    <table>
+      <tbody>
+      <tr>
+        <td>de fitness</td>
+        <td>&harr;</td>
+        <td>ik fitnes</td>
+        <td>hij fitnest</td>
+        <td>hij heeft gefitnest</td>
+      </tr>
+      <tr>
+        <td>de toss</td>
+        <td>&harr;</td>
+        <td>ik tos</td>
+        <td>hij tost</td>
+        <td>hij heeft getost</td>
+      </tr>
+      <tr>
+        <td>de grill</td>
+        <td>&harr;</td>
+        <td>ik grill</td>
+        <td>hij grilt</td>
+        <td>hij heeft gegrild</td>
+      </tr>
+      <tr>
+        <td>de yell</td>
+        <td>&harr;</td>
+        <td>ik yel</td>
+        <td>hij yelt</td>
+        <td>hij heeft geyeld</td>
+      </tr>
+      </tbody>
+    </table>
+    <p>Soms is de dubbele medeklinker ook nodig in de vervoeging van Engelse leenwerkwoorden, voor de juiste uitspraak van het werkwoord.</p>
+    <table>
+      <tbody>
+      <tr>
+        <td>de app</td>
+        <td>&harr;</td>
+        <td>ik a<strong>pp</strong></td>
+        <td>hij appt</td>
+        <td>hij heeft geappt</td>
+      </tr>
+      <tr>
+        <td>de baseball</td>
+        <td>&harr;</td>
+        <td>ik baseba<strong>ll</strong></td>
+        <td>hij baseballt</td>
+        <td>hij heeft gebaseballd</td>
+      </tr>
+      <tr>
+        <td>de pass</td>
+        <td>&harr;</td>
+        <td>ik pa<strong>ss</strong></td>
+        <td>hij passt</td>
+        <td>hij heeft gepasst (sportterm)</td>
+      </tr>
+      </tbody>
+    </table>
+
  snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
