@@ -1,3 +1,29 @@
+langlaufski's-skijack-of-ski-jack:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 5-6       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-03-07   # YYYY-MM-DD
+  title: >
+    langlauf ski's of langlaufski's, skijack of ski-jack?
+  intro: >
+    Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen? 
+    Er is hier geen html opmaak toegestaan, teneinde het overzichtelijk te houden.
+  voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
+    - "Aanbieding: "
+    - fout: "langlauf ski's"
+      goed: "langlaufski's"
+    - " en "
+    - fout: "skijack"
+      goed: "ski-jack"
+    - " met bontkraag"
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - >
+      Samengestelde woorden schrijf je zoveel mogelijk aaneen.
+  uitleg: >
+    <p>
+      Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:
+      
+    </p>
+    
 snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
