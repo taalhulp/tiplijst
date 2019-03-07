@@ -6,7 +6,6 @@ langlaufski's-skijack-of-ski-jack:
     langlauf ski's of langlaufski's, skijack of ski-jack?
   intro: >
     Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen? 
-    Er is hier geen html opmaak toegestaan, teneinde het overzichtelijk te houden.
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
     - "Aanbieding: "
     - fout: "langlauf ski's"
@@ -21,7 +20,31 @@ langlaufski's-skijack-of-ski-jack:
   uitleg: >
     <p>
       Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:
-      
+      <table>
+<tbody>
+<tr>
+<td>ski + school</td>
+<td>&rarr;</td>
+<td>skischool</td>
+</tr>
+<tr>
+<td>lawine + gevaar</td>
+<td>&rarr;</td>
+<td>lawinegevaar</td>
+</tr>
+<tr>
+<td>winter + sport + kleding</td>
+<td>&rarr;</td>
+<td>wintersportkleding</td>
+</tr>
+<tr>
+<td>winter + sport + kleding + magazijn</td>
+<td>&rarr;</td>
+<td>wintersportkledingmagazijn</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
     </p>
     
 snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
