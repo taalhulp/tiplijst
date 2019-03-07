@@ -1,3 +1,82 @@
+langlaufski's-skijack-of-ski-jack:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 5-6       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-03-07   # YYYY-MM-DD
+  title: >
+    langlauf ski's of langlaufski's, skijack of ski-jack?
+  intro: >
+    Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen? 
+  voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
+    - "Aanbieding: "
+    - fout: "langlauf ski's"
+      goed: "langlaufski's"
+    - " en "
+    - fout: "skijack"
+      goed: "ski-jack"
+    - " met bontkraag"
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - >
+      Samengestelde woorden schrijf je zoveel mogelijk aaneen.
+  uitleg: >
+    <p>
+      Een samenstelling is een woord dat bestaat uit twee of meer woorden die met elkaar een eenheid vormen, bijvoorbeeld:
+      <table>
+    <tbody>
+    <tr>
+    <td>ski + school</td>
+    <td>&rarr;</td>
+    <td>skischool</td>
+    </tr>
+    <tr>
+    <td>lawine + gevaar</td>
+    <td>&rarr;</td>
+    <td>lawinegevaar</td>
+    </tr>
+    <tr>
+    <td>winter + sport + kleding</td>
+    <td>&rarr;</td>
+    <td>wintersportkleding</td>
+    </tr>
+    <tr>
+    <td>winter + sport + kleding + magazijn</td>
+    <td>&rarr;</td>
+    <td>wintersportkledingmagazijn</td>
+    </tr>
+    </tbody>
+    </table>
+    <p>Samenstellingen schrijf je zoveel mogelijk aaneen.</p>
+    <p>Om uitspraakproblemen te vermijden, komt er een streepje tussen die twee delen:</p>
+    <table style="width: 503px;">
+    <tbody>
+    <tr>
+    <td style="width: 130px;">ski + jack</td>
+    <td style="width: 10px;">&rarr;</td>
+    <td style="width: 368px;">ski-jack (Zonder streepje lees je een ij: <span style="text-decoration: line-through;">skijack</span>.)</td>
+    </tr>
+    <tr>
+    <td style="width: 130px;">ski + jack + prijs</td>
+    <td style="width: 10px;">&rarr;</td>
+    <td style="width: 368px;">ski-jackprijs</td>
+    </tr>
+    </tbody>
+    </table>
+    <p><strong><span style="color: #008000;">Let op:</span></strong></p>
+    <table>
+    <tbody>
+    <tr>
+    <td><strong>geen uitspraakprobleem</strong></td>
+    <td>&nbsp;</td>
+    <td><strong>uitspraakprobleem</strong></td>
+    </tr>
+    <tr>
+    <td>skiavontuur, skiongeluk</td>
+    <td>&harr;</td>
+    <td>ski-ervaring, ski-instructeur</td>
+    </tr>
+    </tbody>
+    </table>
+    </p>
+  
 snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
   cat: werkwoord          # Kies: stijl/spelling/werkwoord
   ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
@@ -42,7 +121,7 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
       </tbody>
       </table>
     <p><span style="color: #008000;"><strong>Let op:</strong></span> <strong>snowboarden</strong> en <strong>langlaufen</strong> zijn leenwerkwoorden, respectievelijk uit het Engels en Duits.</p>
-    <p>Leenwerkwoorden zijn in het Nederlands altijd regelmatige <span style="background-color: #ffffff;">werkwoorden.</span></p>
+    <p>Leenwerkwoorden zijn in het Nederlands altijd regelmatige werkwoorden.</p>
     
 Oudjaar-of-oudjaar-Nieuwjaarsdag-of-nieuwjaarsdag:
   cat: spelling          # Kies: stijl/spelling/werkwoord
