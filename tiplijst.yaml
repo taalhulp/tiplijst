@@ -17,10 +17,12 @@ er tegen-of-ertegen-daar heen-of-daarheen:
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       Woordcombinaties met <strong>er, hier, daar, waar</strong> schrijf je meestal aan elkaar.
-  uitleg: >
-    <p>
-      
-    </p>
+  uitleg: 
+    <p>Ik ben <strong>ervan</strong> overtuigd dat het goed komt.</p>
+    <p>Hij geeft <strong>hierover</strong> een interessante lezing.</p>
+    <p>Je moet <strong>daarop </strong>vertrouwen.</p>
+    <p>Het maakt niet uit <strong>waarover</strong> je schrijft.</p>
+    <p><span style="color: #00ff00;"><strong><em>Wordt vervolgd</em></strong></span></p>
     
 langlaufski's-skijack-of-ski-jack:
   cat: spelling          # Kies: stijl/spelling/werkwoord
