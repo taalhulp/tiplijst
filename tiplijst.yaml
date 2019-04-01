@@ -1,9 +1,9 @@
 er tegen-of-ertegen-daar heen-of-daarheen:
   cat: spelling          # Kies: stijl/spelling/werkwoord
-  ref: kolom 5-6       # Verschijnt als: "Stijlhulp123 kolom 13"
-  datum: 2019-03-07   # YYYY-MM-DD
+  ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-04-01   # YYYY-MM-DD
   title: >
-    langlauf ski's of langlaufski's, skijack of ski-jack?
+    er tegen of ertegen, daar heen of daarheen?
   intro: >
     Wanneer schrijf je woorden aan elkaar? Wanneer komt er een streepje tussen? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
