@@ -7,13 +7,13 @@ er tegen-of-ertegen-daar heen-of-daarheen:
   intro: >
     De woorden er, hier, daar, waar worden vaak gecombineerd met een voorzetsel. Schrijf je deze combinaties aan elkaar of los?
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
-    - "Aanbieding: "
-    - fout: "langlauf ski's"
-      goed: "langlaufski's"
-    - " en "
-    - fout: "skijack"
-      goed: "ski-jack"
-    - " met bontkraag"
+    - "Ik ben "
+    - fout: "er tegen"
+      goed: "ertegen"
+    - " dat je "
+    - fout: "daar heen"
+      goed: "daarheen"
+    - " gaat."
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       Samengestelde woorden schrijf je zoveel mogelijk aaneen.
