@@ -22,8 +22,8 @@ er tegen-of-ertegen-daar heen-of-daarheen:
     <p>Hij geeft <strong>hierover</strong> een interessante lezing.</p>
     <p>Je moet <strong>daarop </strong>vertrouwen.</p>
     <p>Het maakt niet uit <strong>waarover</strong> je schrijft.</p>
-    <span style="color: #008000;"><strong><em>Wordt vervolgd</em></strong></span></p>
-    
+    <span style="color:#008000;"><strong><em>Wordt vervolgd</em></strong></span>
+
 langlaufski's-skijack-of-ski-jack:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 5-6       # Verschijnt als: "Stijlhulp123 kolom 13"
