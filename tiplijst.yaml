@@ -1,3 +1,29 @@
+gaan er vanuit-of-gaan ervan uit:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-04-01   # YYYY-MM-DD
+  title: >
+    er tegen of ertegen, daar heen of daarheen?
+  intro: >
+    De woorden er, hier, daar, waar worden vaak gecombineerd met een voorzetsel. Schrijf je deze combinaties aan elkaar of los?
+  voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
+    - "Ik ben "
+    - fout: "er tegen"
+      goed: "ertegen"
+    - " dat je "
+    - fout: "daar heen"
+      goed: "daarheen"
+    - " gaat."
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - >
+      Woordcombinaties met <strong>er, hier, daar, waar</strong> schrijf je meestal aan elkaar.
+  uitleg: 
+    <p>Ik ben <strong>ervan</strong> overtuigd dat het goed komt.</p>
+    <p>Hij geeft <strong>hierover</strong> een interessante lezing.</p>
+    <p>Je moet <strong>daarop </strong>vertrouwen.</p>
+    <p>Het maakt niet uit <strong>waarover</strong> je schrijft.</p>
+    <span style="color:#008000;"><strong><em>Wordt vervolgd</em></strong></span>
+    
 er tegen-of-ertegen-daar heen-of-daarheen:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
