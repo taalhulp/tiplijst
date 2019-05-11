@@ -1,28 +1,21 @@
-gaan er vanuit-of-gaan ervan uit:
+er vanuit gaan-of-ervan uitgaan:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
   datum: 2019-04-01   # YYYY-MM-DD
   title: >
-    er tegen of ertegen, daar heen of daarheen?
+    er vanuit gaan-of-ervan uitgaan?
   intro: >
-    De woorden er, hier, daar, waar worden vaak gecombineerd met een voorzetsel. Schrijf je deze combinaties aan elkaar of los?
+    In de zin 'Ik ga ervan uit dat de les doorgaat' wordt 'ervan' aan elkaar geschreven en 'uit' staat los. Wat is de regel? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
-    - "Ik ben "
-    - fout: "er tegen"
-      goed: "ertegen"
-    - " dat je "
-    - fout: "daar heen"
-      goed: "daarheen"
-    - " gaat."
-  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - "Wij gaan "
+    - fout: "er vanuit"
+      goed: "ervan uit"
+    - " dat u akkoord gaat."
+    hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
-      Woordcombinaties met <strong>er, hier, daar, waar</strong> schrijf je meestal aan elkaar.
+      Het voorzetsel dat vastzit aan het werkwoord, blijft onderdeel van dat werkwoord. Het kan daarom niet aan een ander woord geplakt worden.
   uitleg: 
-    <p>Ik ben <strong>ervan</strong> overtuigd dat het goed komt.</p>
-    <p>Hij geeft <strong>hierover</strong> een interessante lezing.</p>
-    <p>Je moet <strong>daarop </strong>vertrouwen.</p>
-    <p>Het maakt niet uit <strong>waarover</strong> je schrijft.</p>
-    <span style="color:#008000;"><strong><em>Wordt vervolgd</em></strong></span>
+    <p>Samengestelde werkwoorden die beginnen met een voorzetsel, gebruiken soms ook <strong><span style="color: #00ff00;">een vast voorzetsel</span></strong>, zoals <strong>ingaan <span style="color: #00ff00;">op</span></strong>, <strong>uitkijken <span style="color: #00ff00;">naar</span></strong>, <strong>uitgaan <span style="color: #00ff00;">van</span></strong>, <strong>opzien <span style="color: #00ff00;">tegen</span></strong>, <strong>inzetten <span style="color: #00ff00;">op</span></strong>.</p>
     
 er tegen-of-ertegen-daar heen-of-daarheen:
   cat: spelling          # Kies: stijl/spelling/werkwoord
