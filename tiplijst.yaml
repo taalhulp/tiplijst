@@ -15,8 +15,7 @@ er vanuit gaan-of-ervan uitgaan:
     - >
       Het voorzetsel dat vastzit aan het werkwoord, blijft onderdeel van dat werkwoord. Het kan daarom niet aan een ander woord geplakt worden.
   uitleg: 
-    <p>Samengestelde werkwoorden die beginnen met een voorzetsel, gebruiken soms ook <strong><span style="color: #00ff00;">een vast voorzetsel</span></strong>, zoals <strong>ingaan <span style="color: #00ff00;">op</span></strong>, <strong>uitkijken <span style="color: #00ff00;">naar</span></strong>, <strong>uitgaan <span style="color: #00ff00;">van</span></strong>, <strong>opzien <span style="color: #00ff00;">tegen</span></strong>, <strong>inzetten <span style="color: #00ff00;">op</span></strong>.</p>
-    
+        
 er tegen-of-ertegen-daar heen-of-daarheen:
   cat: spelling          # Kies: stijl/spelling/werkwoord
   ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
