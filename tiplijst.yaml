@@ -11,7 +11,7 @@ er vanuit gaan-of-ervan uitgaan:
     - fout: "er vanuit"
       goed: "ervan uit"
     - " dat u akkoord gaat."
-    hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       Het voorzetsel dat vastzit aan het werkwoord, blijft onderdeel van dat werkwoord. Het kan daarom niet aan een ander woord geplakt worden.
   uitleg: 
