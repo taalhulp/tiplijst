@@ -14,7 +14,7 @@ er vanuit gaan-of-ervan uitgaan:
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       Het voorzetsel dat vastzit aan het werkwoord, blijft onderdeel van dat werkwoord. Het kan daarom niet aan een ander woord geplakt worden.
-  uitleg: 
+  uitleg: >
     <p>Samengestelde werkwoorden die beginnen met een voorzetsel, gebruiken soms ook een vast voorzetsel, zoals ingaan <strong>op</strong>, uitkijken <strong>naar</strong>, uitgaan <strong>van</strong>, opzien <strong>tegen</strong>, inzetten <strong>op</strong>.</p>    
     <p>Het voorzetsel dat standaard bij het werkwoord hoort, schrijf je in combinatie met <strong>er, hier, daar, waar</strong> altijd aan elkaar:
     
@@ -37,7 +37,7 @@ er tegen-of-ertegen-daar heen-of-daarheen:
   hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       Woordcombinaties met <strong>er, hier, daar, waar</strong> schrijf je meestal aan elkaar.
-  uitleg: 
+  uitleg: >
     <p>Ik ben <strong>ervan</strong> overtuigd dat het goed komt.</p>
     <p>Hij geeft <strong>hierover</strong> een interessante lezing.</p>
     <p>Je moet <strong>daarop </strong>vertrouwen.</p>
