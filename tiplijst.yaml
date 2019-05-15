@@ -17,6 +17,12 @@ er vanuit gaan-of-ervan uitgaan:
   uitleg: >
     <p>Samengestelde werkwoorden die beginnen met een voorzetsel, gebruiken soms ook een vast voorzetsel, zoals ingaan <strong>op</strong>, uitkijken <strong>naar</strong>, uitgaan <strong>van</strong>, opzien <strong>tegen</strong>, inzetten <strong>op</strong>.</p>    
     <p>Het voorzetsel dat standaard bij het werkwoord hoort, schrijf je in combinatie met <strong>er, hier, daar, waar</strong> altijd aan elkaar:
+    <ul>
+      <li>Haal <strong>-en</strong> van het werkwoord af en kijk naar de laatste letter.</li>
+      <li>Staat deze letter in '<strong>t</strong> <strong>k</strong>o<strong>fsch</strong>i<strong>p</strong>? Het gaat om de medeklinkers t-k-f-s-ch-p.</li>
+      <li>Zo ja: ik-vorm + te</li>
+      <li>Zo nee: ik-vorm + de</li>
+    </ul>
 
 er tegen-of-ertegen-daar heen-of-daarheen:
   cat: spelling          # Kies: stijl/spelling/werkwoord
