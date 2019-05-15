@@ -14,7 +14,7 @@ snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
     - fout: "gelanglaufd"
       goed: "gelanglauft"
     - "."
-  hints:# Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+  hints:  # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
       <p>De verleden tijd en het voltooid deelwoord van regelmatige werkwoorden gaan <strong>volgens de regel van 't kofschip</strong>.
   uitleg: >
