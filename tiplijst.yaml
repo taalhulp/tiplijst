@@ -1,48 +1,29 @@
-snowboarde-of-snowboardde-gelanglaufd-of-gelanglauft:
-  cat: werkwoord          # Kies: stijl/spelling/werkwoord
-  ref: pagina 2       # Verschijnt als: "Stijlhulp123 kolom 13"
-  datum: 2019-01-25   # YYYY-MM-DD
+er vanuit gaan-of-ervan uitgaan:
+  cat: spelling          # Kies: stijl/spelling/werkwoord
+  ref: kolom 7       # Verschijnt als: "Stijlhulp123 kolom 13"
+  datum: 2019-04-01   # YYYY-MM-DD
   title: >
-    snowboarde of snowboardde, gelanglaufd of gelanglauft
+    er vanuit gaan-of-ervan uitgaan?
   intro: >
-    -te of -de in de verleden tijd? Eindigt het voltooid deelwoord op -t of -d? Hoe werkt dat? 
+    In de zin 'Ik ga ervan uit dat de les doorgaat' wordt 'ervan' aan elkaar geschreven en 'uit' staat los. Wat is de regel? 
   voorbeeld:  # Onderstaande segmenten vormen samen de voorbeeldzin. Neutraal + fout/goed herhalen zoveel als nodig
-    - "Vorig jaar "
-    - fout: "snowboarde"
-      goed: "snowboardde"
-    - " ik nog, maar dit jaar heb ik "
-    - fout: "gelanglaufd"
-      goed: "gelanglauft"
-    - "."
-  hints:  # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
+    - "Wij gaan "
+    - fout: "er vanuit"
+      goed: "ervan uit"
+    - " dat u akkoord gaat."
+  hints:    # Dit zijn de hints die onder de voorbeeldzin verschijnen. Zoveel als nodig.
     - >
-      <p>De verleden tijd en het voltooid deelwoord van regelmatige werkwoorden gaan <strong>volgens de regel van 't kofschip</strong>.
+      Het voorzetsel dat vastzit aan het werkwoord, blijft onderdeel van dat werkwoord. Het kan daarom niet aan een ander woord geplakt worden.
   uitleg: >
-    <p><strong>snowboarden</strong> en <strong>langlaufen</strong> zijn regelmatige werkwoorden.</p>
-    <p><strong>verleden tijd</strong>: de vervoeging gaat volgens de regel van &rsquo;t kofschip.</p>
-    <ul>
-      <li>Haal <strong>-en</strong> van het werkwoord af en kijk naar de laatste letter.</li>
-      <li>Staat deze letter in '<strong>t</strong> <strong>k</strong>o<strong>fsch</strong>i<strong>p</strong>? Het gaat om de medeklinkers t-k-f-s-ch-p.</li>
-      <li>Zo ja: ik-vorm + te</li>
-      <li>Zo nee: ik-vorm + de</li>
-    </ul>
-     <p>langlauf<span style="text-decoration: line-through;">en</span>&nbsp;&rarr; langlau<strong>f</strong> (<strong>f</strong> zit in &rsquo;t ko<strong>f</strong>schip)&nbsp;&rarr; ik langlau<strong>f</strong> + te: ik langlauf<strong>te &ndash; </strong>wij langlauf<strong>ten</strong></p>
-     <p>snowboard<span style="text-decoration: line-through;">en</span>&nbsp;&rarr; snowboar<strong>d</strong> (<strong>d</strong> zit niet in &rsquo;t kofschip)&nbsp;&rarr; ik snowboar<strong>d</strong> + de: ik snowboard<strong>de &ndash; </strong>wij snowboard<strong>den</strong></p>
-    <p><strong>voltooid deelwoord: </strong>kijk naar de uitgang van de verleden tijd.</p>
-      <table style="width: 313px;">
-      <tbody>
-      <tr>
-      <td style="width: 140px;">ik langlauf<strong>te</strong></td>
-      <td style="width: 187px;">&rarr; ik heb gelanglauf<strong>t</strong></td>
-      </tr>
-      <tr>
-      <td style="width: 140px;">ik snowboard<strong>de</strong></td>
-      <td style="width: 187px;">&rarr; ik heb gesnowboar<strong>d</strong></td>
-      </tr>
-      </tbody>
-      </table>
-    <p><span style="color: #008000;"><strong>Let op:</strong></span> <strong>snowboarden</strong> en <strong>langlaufen</strong> zijn leenwerkwoorden, respectievelijk uit het Engels en Duits.</p>
-    <p>Leenwerkwoorden zijn in het Nederlands altijd regelmatige werkwoorden.</p>
+    <p>
+      Samengestelde werkwoorden die beginnen met een voorzetsel, gebruiken soms ook een vast voorzetsel, 
+      zoals ingaan <strong>op</strong>, uitkijken <strong>naar</strong>, uitgaan <strong>van</strong>, opzien 
+      <strong>tegen</strong>, inzetten <strong>op</strong>.
+    </p>    
+    <p>
+      Het voorzetsel dat standaard bij het werkwoord hoort, schrijf je in combinatie met <strong>er, hier, 
+      daar, waar</strong> altijd aan elkaar.
+    </p>
 # GEEN INSPRINGING (SPATIES) OP DE VOLGENDE REGEL
 
 er tegen-of-ertegen-daar heen-of-daarheen:

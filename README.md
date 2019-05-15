@@ -44,7 +44,6 @@ unieke-id-voor-de-browser-zonder-spaties:
       Knippen en plakken van <a href="https://html5-editor.net/">html5-editor.net</a>.
     </p>
 
-# witregel zonder spaties voor de volgende tip
 ```
 
 ## 2. Wijzig de gegevens
